@@ -22,7 +22,7 @@ sources:
 流派与风格站按**听感**给音乐分类。它回答三个问题：
 **这是什么味道、从哪里来、想听这一类该从哪首开始。**
 
-## 会收录哪些内容
+## 分成哪几类
 
 - **大类** —— 古典与浪漫、爵士、摇滚与流行、电子、世界音乐。
 - **子风格** —— 大类之下的分支，讲清它和母类差在哪里：节奏、音色、编制、场合。
@@ -43,7 +43,7 @@ sources:
 2. **看谱系图** —— 一张地图比十条条目更快说明「谁是谁的上一代」。
 3. **横向比** —— 同一段旋律在不同风格里的处理差别最直观。
 
-## 现在到哪一步
+## 地图怎么长出来
 
 条目正在陆续上线。会先立起**大类的骨架**，再逐个填子风格 ——
 这样任何一条上线时，都能立刻被放进已有的地图里，而不是孤零零地挂着。
@@ -56,7 +56,7 @@ This station classifies music **by how it sounds**. It answers three questions:
 **what does it feel like, where does it come from, and what should I start with if I want
 to hear more of it.**
 
-## What it will contain
+## How the categories are divided
 
 - **Broad categories** — classical and Romantic, jazz, rock and pop, electronic, world music.
 - **Sub-styles** — the branches under each, explaining exactly how they differ from the
@@ -82,7 +82,7 @@ to hear more of it.**
 2. **Read the family tree** — one map explains "who came from whom" faster than ten entries.
 3. **Compare across** — the same melody handled in different styles is the clearest test.
 
-## Where it stands today
+## How the map grows
 
 Entries are being added over time, starting with **the skeleton of the broad categories**
 and then filling in sub-styles one by one — so that every entry, when it arrives, already
